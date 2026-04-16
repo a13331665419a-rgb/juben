@@ -34,12 +34,16 @@ Write dialogue for the male lead's confession scene
 ```
 micro-drama-writer/
 ├── SKILL.md                      # Main workflow and quality standards
-└── references/
-    ├── plot-templates.md         # 8 story frameworks with episode pacing
-    ├── character-archetypes.md   # 20+ character archetypes with sample lines
-    ├── emotional-hooks.md        # Hook & payoff engineering system
-    ├── scene-bridges.md          # 40+ classic scene templates
-    └── dialogue-craft.md         # Dialogue principles, golden lines & examples
+├── references/
+│   ├── plot-templates.md         # 8 story frameworks with episode pacing
+│   ├── character-archetypes.md   # 20+ character archetypes with sample lines
+│   ├── emotional-hooks.md        # Hook & payoff engineering system
+│   ├── scene-bridges.md          # 40+ classic scene templates
+│   └── dialogue-craft.md         # Dialogue principles, golden lines & examples
+└── examples/
+    ├── 60集复仇微短剧-完整大纲.md    # Full 60-episode revenge drama outline
+    ├── 第30集-董事会打脸名场面.md     # Episode 30 face-slap scene script
+    └── 男主表白台词.md               # Male lead's confession dialogue
 ```
 
 ### Installation
@@ -80,12 +84,16 @@ Copy the `micro-drama-writer/` folder to your Claude Code skills directory:
 ```
 micro-drama-writer/
 ├── SKILL.md                      # 主工作流程与质量标准
-└── references/
-    ├── plot-templates.md         # 8大题材框架 + 各自集数节奏
-    ├── character-archetypes.md   # 20+角色原型（含标志性台词）
-    ├── emotional-hooks.md        # 爽点与钩子工程设计体系
-    ├── scene-bridges.md          # 40+经典桥段完整模板
-    └── dialogue-craft.md         # 台词写法原则、金句库、场景范例
+├── references/
+│   ├── plot-templates.md         # 8大题材框架 + 各自集数节奏
+│   ├── character-archetypes.md   # 20+角色原型（含标志性台词）
+│   ├── emotional-hooks.md        # 爽点与钩子工程设计体系
+│   ├── scene-bridges.md          # 40+经典桥段完整模板
+│   └── dialogue-craft.md         # 台词写法原则、金句库、场景范例
+└── examples/
+    ├── 60集复仇微短剧-完整大纲.md    # 60集重生复仇微短剧完整大纲
+    ├── 第30集-董事会打脸名场面.md     # 第30集董事会打脸完整剧本
+    └── 男主表白台词.md               # 男主表白完整场景台词
 ```
 
 ### 安装方法
